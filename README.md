@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá me Chamo Kerolaine 👋
 
-<!--
-**k3rolaine/k3rolaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/k3rolaine">
+      
+ 
+</div>
+  <div style="display: inline_block"><br>
 
-Here are some ideas to get you started:
+</div>
+     
+ 
+<div>
+ 
+  <a href="https://www.instagram.com/k3rolaine/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+ 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

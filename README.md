@@ -1,4 +1,3 @@
-### Olá me Chamo Kerolaine 👋
 
 <div align="center">
   <a href="https://github.com/k3rolaine">
